@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f3f3f3;
+    background-color: #59c5e6;
   }
   
   .contenedor {
@@ -8,8 +8,9 @@ body {
     margin: 0 auto;
     padding: 20px;
     text-align: center;
-    background-color: #ffffff;
+    background-color: #4da7db;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+
   }
   
   h1 {
